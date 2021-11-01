@@ -1,0 +1,8 @@
+body{
+    background: white url("images/background.png") no-repeat; /*이미지 반복 없음*/
+    background-position: right bottom;
+}
+
+li a {
+    color: wheat;
+}
